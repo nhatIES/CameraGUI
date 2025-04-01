@@ -1,4 +1,4 @@
-# CameraGUI
+# CameraGUI (Built with C++ and MFC)
 
 ## Usage 
 
