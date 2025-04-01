@@ -27,11 +27,6 @@
 - Use **ZOOM IN** and **ZOOM OUT** buttons to adjust the zoom level.
 - You can also **scroll the mouse wheel** to zoom in/out smoothly.
 
-<br>
-
-![Camera GUI Screenshot](asset/pic3.jpg)
-
-<br>
 
 
 
