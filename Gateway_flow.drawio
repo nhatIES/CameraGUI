@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.10">
   <diagram name="Page-1" id="hRr5uDz1ZuRjbSw7PzIp">
-    <mxGraphModel dx="1883" dy="4413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="686" dy="4046" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -455,7 +455,7 @@
         <mxCell id="AWm3DalntXtv2E_0NK3A-277" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Data Formatting" vertex="1">
           <mxGeometry height="60" width="120" x="2721" y="6769.75" as="geometry" />
         </mxCell>
-        <mxCell id="AWm3DalntXtv2E_0NK3A-289" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#FFFFFF,#FFCCFF);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
+        <mxCell id="AWm3DalntXtv2E_0NK3A-289" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFCCFF);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
           <mxGeometry height="630" width="440" x="2543" y="-474" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-290" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FF99FF);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
@@ -464,19 +464,19 @@
         <mxCell id="AWm3DalntXtv2E_0NK3A-291" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#66FF66);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
           <mxGeometry height="1027" width="396" x="2572" y="1064" as="geometry" />
         </mxCell>
-        <mxCell id="AWm3DalntXtv2E_0NK3A-297" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#FFFFFF,#FF66FF);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
+        <mxCell id="AWm3DalntXtv2E_0NK3A-297" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FF66FF);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
           <mxGeometry height="1061" width="575" x="2488.5" y="3118" as="geometry" />
         </mxCell>
-        <mxCell id="AWm3DalntXtv2E_0NK3A-298" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#FFFFFF,#FF9933);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
+        <mxCell id="AWm3DalntXtv2E_0NK3A-298" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FF9933);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
           <mxGeometry height="835" width="358" x="2597" y="2157" as="geometry" />
         </mxCell>
-        <mxCell id="AWm3DalntXtv2E_0NK3A-299" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#FFFFFF,#33FF99);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
+        <mxCell id="AWm3DalntXtv2E_0NK3A-299" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
           <mxGeometry height="587" width="252" x="2650" y="6407" as="geometry" />
         </mxCell>
-        <mxCell id="AWm3DalntXtv2E_0NK3A-300" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#FFFFFF,#FFFF99);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
+        <mxCell id="AWm3DalntXtv2E_0NK3A-300" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
           <mxGeometry height="1838.5" width="1169" x="2209" y="4338" as="geometry" />
         </mxCell>
-        <mxCell id="AWm3DalntXtv2E_0NK3A-301" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#FFFFFF,#99FFFF);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
+        <mxCell id="AWm3DalntXtv2E_0NK3A-301" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#99FFFF);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
           <mxGeometry height="659" width="804" x="2361" y="-1246" as="geometry" />
         </mxCell>
       </root>
