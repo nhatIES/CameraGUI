@@ -420,64 +420,88 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-268" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="&amp;nbsp;DATA PROCESSING&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="120" x="2721" y="6431" as="geometry" />
+          <mxGeometry height="60" width="120" x="2735.25" y="6308" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-276" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6d8764;strokeColor=#3A5431;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2740" y="6557.5" as="sourcePoint" />
-            <mxPoint x="2740" y="6605" as="targetPoint" />
+            <mxPoint x="2754.25" y="6434.5" as="sourcePoint" />
+            <mxPoint x="2754.25" y="6482" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8i0fTGJCvBZ2ZndQ2ud6-5" edge="1" parent="1" source="AWm3DalntXtv2E_0NK3A-269" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="AWm3DalntXtv2E_0NK3A-275">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-269" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Data Validation" vertex="1">
-          <mxGeometry height="60" width="120" x="2721" y="6558.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="2735.25" y="6435.5" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-271" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="&amp;nbsp;Encode binary data&amp;nbsp;&lt;div&gt;Optimize payload size&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="2721" y="6891" as="geometry" />
+          <mxGeometry height="60" width="120" x="2735.25" y="6768" as="geometry" />
         </mxCell>
         <mxCell id="8i0fTGJCvBZ2ZndQ2ud6-6" edge="1" parent="1" source="AWm3DalntXtv2E_0NK3A-275" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="AWm3DalntXtv2E_0NK3A-277" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-275" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Check required fields&amp;nbsp;&lt;div&gt;Verify data integrity&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="2721" y="6670.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="2735.25" y="6547.5" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-279" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6d8764;strokeColor=#3A5431;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2740" y="6768.75" as="sourcePoint" />
-            <mxPoint x="2740" y="6830" as="targetPoint" />
+            <mxPoint x="2754.25" y="6645.75" as="sourcePoint" />
+            <mxPoint x="2754.25" y="6707" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8i0fTGJCvBZ2ZndQ2ud6-7" edge="1" parent="1" source="AWm3DalntXtv2E_0NK3A-277" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="AWm3DalntXtv2E_0NK3A-271" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-277" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="Data Formatting" vertex="1">
-          <mxGeometry height="60" width="120" x="2721" y="6769.75" as="geometry" />
+          <mxGeometry height="60" width="120" x="2735.25" y="6646.75" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-289" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FFCCFF);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="630" width="440" x="2543" y="-474" as="geometry" />
+          <mxGeometry height="705" width="440" x="2543" y="-549" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-290" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FF99FF);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
           <mxGeometry height="778" width="403" x="2565" y="234" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-291" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#66FF66);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="1027" width="396" x="2572" y="1064" as="geometry" />
+          <mxGeometry height="1058" width="421" x="2571" y="1033" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-297" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FF66FF);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="1061" width="575" x="2488.5" y="3118" as="geometry" />
+          <mxGeometry height="1161" width="575" x="2488.5" y="3018" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-298" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#FF9933);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="835" width="358" x="2597" y="2157" as="geometry" />
+          <mxGeometry height="867" width="358" x="2597" y="2125" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-299" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="587" width="252" x="2650" y="6407" as="geometry" />
+          <mxGeometry height="665" width="424" x="2578.75" y="6204" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-300" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#000000);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="1838.5" width="1169" x="2209" y="4338" as="geometry" />
+          <mxGeometry height="1912" width="1169" x="2209" y="4219" as="geometry" />
         </mxCell>
         <mxCell id="AWm3DalntXtv2E_0NK3A-301" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000,#99FFFF);fontColor=#1A1A1A;fillColor=none;" value="" vertex="1">
           <mxGeometry height="659" width="804" x="2361" y="-1246" as="geometry" />
+        </mxCell>
+        <mxCell id="YZskGUHQU_-RK7EObzW7-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Wi-Fi bring-up: initialize Wi-Fi, connect AP, check IP/DNS/NTP ready" vertex="1">
+          <mxGeometry height="100" width="372" x="2590" y="1016" as="geometry" />
+        </mxCell>
+        <mxCell id="YZskGUHQU_-RK7EObzW7-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Certificate handling: mount FS, load credentials (CA, client cert/key); if invalid, fallback to factory, else continue; validate loaded certs." vertex="1">
+          <mxGeometry height="85" width="337" x="2613" y="2115" as="geometry" />
+        </mxCell>
+        <mxCell id="YZskGUHQU_-RK7EObzW7-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Bring up MQTT stack, establish TLS, create MQTT session, subscribe control topics, publish data, maintain keep-alive. Central handler for incoming MQTT commands.&amp;nbsp;Branch for firmware/model update commands.&amp;nbsp;Branch to choose operational mode based on command." vertex="1">
+          <mxGeometry height="100" width="756" x="2409" y="4219" as="geometry" />
+        </mxCell>
+        <mxCell id="YZskGUHQU_-RK7EObzW7-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Orchestrates role selection between Peripheral and Central.&lt;div&gt;Device advertises and waits for a link.&lt;/div&gt;&lt;div&gt;Enable central role, initialize, then scan for devices.&lt;/div&gt;&lt;div&gt;Subscribe to data-streaming characteristic, receive notifications, and forward them into the MQTT queue.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="66" width="549" x="2498" y="3026" as="geometry" />
+        </mxCell>
+        <mxCell id="YZskGUHQU_-RK7EObzW7-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Set up FSM structures, initial state, event queues.&lt;div&gt;Receive Events from WiFi/MQTT/BLE&lt;/div&gt;&lt;div&gt;Run the handler logic for the current state based on the event.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="58" width="344" x="2602" y="231" as="geometry" />
+        </mxCell>
+        <mxCell id="YZskGUHQU_-RK7EObzW7-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Data Processing: Entry point for handling incoming data.&lt;div&gt;Normalize/structure data into the target schema.&lt;/div&gt;&lt;div&gt;&amp;nbsp;Encode to compact binary to minimize payload before publish/transmit.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="58" width="412" x="2596.25" y="6212" as="geometry" />
+        </mxCell>
+        <mxCell id="YZskGUHQU_-RK7EObzW7-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;nbsp;Bring up core system services and runtime.&lt;div&gt;Initialize device drivers for peripherals&lt;/div&gt;&lt;div&gt;Initialize network stack layers&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="375" x="2582" y="-537" as="geometry" />
+        </mxCell>
+        <mxCell id="YZskGUHQU_-RK7EObzW7-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Overview" vertex="1">
+          <mxGeometry height="85" width="205" x="2650" y="-1272" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
